@@ -37,16 +37,6 @@ For the last year I have been studying the Java programming language at the Runt
 - 2️⃣ Data structures and algorithms
 - 3️⃣ HTML and CSS
 
-What I study and will study:
-- 4️⃣ SQL
-- 5️⃣ Git
-- 6️⃣ Maven
-- 7️⃣ Protocols HTTP / HTTPS
-- 8️⃣ Patterns / design patterns
-- 9️⃣ Familiar with the architecture of the software
-- 1️⃣0️⃣ MVC 
-- 1️⃣1️⃣ Spring Framework (Spring boot)
-- 1️⃣2️⃣ Agile, Scrum, Kanban
 
 [Gmail]: https://mail.google.com/mail/u/1/#inbox
 [Telegram]: https://t.me/nuuulll
